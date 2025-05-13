@@ -10,7 +10,8 @@ This guide provides a simplified method to install and run **Jenkins** using **D
 ## Step 1: Pull Jenkins Docker Image
 
 Download the official Jenkins Long-Term Support (LTS) image from Docker Hub.
-make sure docker is in running state, 
+####
+make sure docker is in running state 
 write this commands in docker terminal
 ```bash
 docker pull jenkins/jenkins:lts
